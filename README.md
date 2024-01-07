@@ -24,5 +24,5 @@ Game Rules:
 -	Playing on Easy difficulty halves the final score.
 -	Playing on Hard difficulty doubles the final score.
 -	Playing on Impossible difficulty quadruples the final score.
-![image](https://github.com/echiubc/Game-Design-Projects/assets/139168248/3ee0530e-0dc3-4898-bba2-a92ac736fe89)
+
 
