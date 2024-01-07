@@ -1,4 +1,4 @@
-# Game-Design-Projects
+# Ballbreak Final Project
 
 Breakout by Ethan Chiu
 Game Demo: https://youtu.be/-K6EEuqjHN4
